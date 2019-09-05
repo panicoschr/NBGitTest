@@ -4,7 +4,7 @@ this is addition on remote
 this is an addition on local
 this is an addition to be traced by fetch
 
-TRY FETCH
+TRY FETCHING
 
 
 updated by p.christodoulou
