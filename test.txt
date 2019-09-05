@@ -4,7 +4,7 @@ this is addition on remote
 this is an addition on local
 this is an addition to be traced by fetch
 
-UPDATE LOCALLY AND THEN REMOTELY
+UPDATE LOCALLY AND THEN ONLY REMOTELY
 
 updated by p.christodoulou
 updated in master file
